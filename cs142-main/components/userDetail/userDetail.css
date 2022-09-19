@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.comment {
+  background-color: aliceblue;
+}
